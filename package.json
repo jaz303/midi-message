@@ -1,8 +1,12 @@
 {
   "name": "midi-message",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generate MIDI messages",
-  "keywords": ["midi", "message", "protocol"],
+  "keywords": [
+    "midi",
+    "message",
+    "protocol"
+  ],
   "scripts": {
     "test": "set -e; for t in test/*; do node $t; done"
   },
